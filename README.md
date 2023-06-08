@@ -1,4 +1,4 @@
-- 👋🏿 Hi, I’m @MwaniN
+- 👋🏿 Hi, I’m Mwani.
 - 👀 I’m interested in learning how to make new things.
 - 🌱 I’m currently practicing JS.
 
