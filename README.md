@@ -1,6 +1,6 @@
 - 👋🏿 Hi, I’m @MwaniN
 - 👀 I’m interested in learning how to make new things.
-- 🌱 I’m currently learning more Python and improving SQL.
+- 🌱 I’m currently practicing JS.
 
 <!---
 MwaniN/MwaniN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
