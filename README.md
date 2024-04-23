@@ -1,7 +1,7 @@
 - 👋🏿 Hi, I’m Mwani.
 - 👀 I’m interested in learning how to make new things.
 - 🌱 I'm proficient in JavaScript, React, Node, Express, and PostgreSQL.
-- ✨ I'm improving my CSS and Typescript knowledge.
+- ✨ I'm improving in CSS and Typescript knowledge.
 - ✍🏿 Please feel free to drop a line with any questions!
 
 <!---
