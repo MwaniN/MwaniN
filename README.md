@@ -1,5 +1,5 @@
 - 👋🏿 Hi, I’m Mwani.
-- 👀 I’m interested in learning how to make new things.
+- 👀 I’m interested in making new things.
 - 🌱 I'm proficient in JavaScript, React, Node, Express, and PostgreSQL.
 - ✨ I'm growing in CSS and Typescript.
 - ✍🏿 Please feel free to drop a line with any questions!
