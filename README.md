@@ -1,6 +1,6 @@
 - 👋🏿 Hi, I’m Mwani.
 - 👀 I’m interested in making new things.
-- ✨I'm proficient in JavaScript, React, Node, Express, SQL, and HTML / CSS.
+- 🎉I'm proficient in JavaScript, React, Node, Express, SQL, and HTML / CSS.
 - 🌱 I'm growing in Typescript.
 - ✍🏿 Please feel free to drop a line with any questions!
 
